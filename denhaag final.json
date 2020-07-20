@@ -1,0 +1,114 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature","properties": {"Naam":"Oostduinen"},"geometry": {"type": "Polygon","coordinates":[ [[4.308130,52.07919],[4.312130,52.07919],[4.312130,52.08119],[4.308130,52.08119]]]}}
+,{"type": "Feature","properties": {"Naam":"Belgisch Park"},"geometry": {"type": "Polygon","coordinates":[ [[4.290210,52.11098],[4.294210,52.11098],[4.294210,52.11298],[4.290210,52.11298]]]}}
+,{"type": "Feature","properties": {"Naam":"Westbroekpark"},"geometry": {"type": "Polygon","coordinates":[ [[4.289473,52.102646],[4.293473,52.102646],[4.293473,52.104646],[4.289473,52.104646]]]}}
+,{"type": "Feature","properties": {"Naam":"Duttendel"},"geometry": {"type": "Polygon","coordinates":[ [[4.303108,52.106327],[4.307108,52.106327],[4.307108,52.108327],[4.303108,52.108327]]]}}
+,{"type": "Feature","properties": {"Naam":"Nassaubuurt"},"geometry": {"type": "Polygon","coordinates":[ [[4.316754,52.089175],[4.320754,52.089175],[4.320754,52.091175],[4.316754,52.091175]]]}}
+,{"type": "Feature","properties": {"Naam":"Uilennest"},"geometry": {"type": "Polygon","coordinates":[ [[4.331913,52.094723],[4.335913,52.094723],[4.335913,52.096723],[4.331913,52.096723]]]}}
+,{"type": "Feature","properties": {"Naam":"Duinzigt"},"geometry": {"type": "Polygon","coordinates":[ [[4.323236,52.104011],[4.327236,52.104011],[4.327236,52.106011],[4.323236,52.106011]]]}}
+,{"type": "Feature","properties": {"Naam":"Waalsdorp"},"geometry": {"type": "Polygon","coordinates":[ [[4.314540,52.098805],[4.318540,52.098805],[4.318540,52.100805],[4.314540,52.100805]]]}}
+,{"type": "Feature","properties": {"Naam":"Arendsdorp"},"geometry": {"type": "Polygon","coordinates":[ [[4.315191,52.094334],[4.319191,52.094334],[4.319191,52.096334],[4.315191,52.096334]]]}}
+,{"type": "Feature","properties": {"Naam":"Van Hoytemastraat en omgeving"},"geometry": {"type": "Polygon","coordinates":[ [[4.319334,52.09022],[4.323334,52.09022],[4.323334,52.09222],[4.319334,52.09222]]]}}
+,{"type": "Feature","properties": {"Naam":"Archipelbuurt"},"geometry": {"type": "Polygon","coordinates":[ [[4.298056,52.089846],[4.302056,52.089846],[4.302056,52.091846],[4.298056,52.091846]]]}}
+,{"type": "Feature","properties": {"Naam":"Van Stolkpark en Scheveningse Bosjes"},"geometry": {"type": "Polygon","coordinates":[ [[4.291522,52.092052],[4.295522,52.092052],[4.295522,52.094052],[4.291522,52.094052]]]}}
+,{"type": "Feature","properties": {"Naam":"Oud Scheveningen"},"geometry": {"type": "Polygon","coordinates":[ [[4.275114,52.107452],[4.279114,52.107452],[4.279114,52.109452],[4.275114,52.109452]]]}}
+,{"type": "Feature","properties": {"Naam":"Vissershaven"},"geometry": {"type": "Polygon","coordinates":[ [[4.258681,52.098761],[4.262681,52.098761],[4.262681,52.100761],[4.258681,52.100761]]]}}
+,{"type": "Feature","properties": {"Naam":"Scheveningen Badplaats"},"geometry": {"type": "Polygon","coordinates":[ [[4.275447,52.109577],[4.279447,52.109577],[4.279447,52.111577],[4.275447,52.111577]]]}}
+,{"type": "Feature","properties": {"Naam":"Visserijbuurt"},"geometry": {"type": "Polygon","coordinates":[ [[4.279557,52.103133],[4.283557,52.103133],[4.283557,52.105133],[4.279557,52.105133]]]}}
+,{"type": "Feature","properties": {"Naam":"Rijslag"},"geometry": {"type": "Polygon","coordinates":[ [[4.281702,52.106770],[4.285702,52.106770],[4.285702,52.108770],[4.281702,52.108770]]]}}
+,{"type": "Feature","properties": {"Naam":"Duindorp"},"geometry": {"type": "Polygon","coordinates":[ [[4.255886,52.089112],[4.259886,52.089112],[4.259886,52.091112],[4.255886,52.091112]]]}}
+,{"type": "Feature","properties": {"Naam":"Statenkwartier"},"geometry": {"type": "Polygon","coordinates":[ [[4.271436,52.09278],[4.275436,52.09278],[4.275436,52.09478],[4.271436,52.09478]]]}}
+,{"type": "Feature","properties": {"Naam":"Geuzenkwartier"},"geometry": {"type": "Polygon","coordinates":[ [[4.265568,52.090018],[4.269568,52.090018],[4.269568,52.092018],[4.265568,52.092018]]]}}
+,{"type": "Feature","properties": {"Naam":"Zorgvliet"},"geometry": {"type": "Polygon","coordinates":[ [[4.285913,52.085527],[4.289913,52.085527],[4.289913,52.087527],[4.285913,52.087527]]]}}
+,{"type": "Feature","properties": {"Naam":"Stadhoudersplantsoen"},"geometry": {"type": "Polygon","coordinates":[ [[4.277540,52.083939],[4.281540,52.083939],[4.281540,52.085939],[4.277540,52.085939]]]}}
+,{"type": "Feature","properties": {"Naam":"Sweelinckplein en omgeving"},"geometry": {"type": "Polygon","coordinates":[ [[4.283998,52.083675],[4.287998,52.083675],[4.287998,52.085675],[4.283998,52.085675]]]}}
+,{"type": "Feature","properties": {"Naam":"Bloemenbuurt-West"},"geometry": {"type": "Polygon","coordinates":[ [[4.251812,52.072967],[4.255812,52.072967],[4.255812,52.074967],[4.251812,52.074967]]]}}
+,{"type": "Feature","properties": {"Naam":"Bloemenbuurt-Oost"},"geometry": {"type": "Polygon","coordinates":[ [[4.255127,52.071477],[4.259127,52.071477],[4.259127,52.073477],[4.255127,52.073477]]]}}
+,{"type": "Feature","properties": {"Naam":"Bomenbuurt"},"geometry": {"type": "Polygon","coordinates":[ [[4.267924,52.077844],[4.271924,52.077844],[4.271924,52.079844],[4.267924,52.079844]]]}}
+,{"type": "Feature","properties": {"Naam":"Vogelwijk"},"geometry": {"type": "Polygon","coordinates":[ [[4.250083,52.078452],[4.254083,52.078452],[4.254083,52.080452],[4.250083,52.080452]]]}}
+,{"type": "Feature","properties": {"Naam":"Bosjes van Pex"},"geometry": {"type": "Polygon","coordinates":[ [[4.244440,52.070981],[4.248440,52.070981],[4.248440,52.072981],[4.244440,52.072981]]]}}
+,{"type": "Feature","properties": {"Naam":"Bohemen en Meer en Bos"},"geometry": {"type": "Polygon","coordinates":[ [[4.235901,52.06631],[4.239901,52.06631],[4.239901,52.06831],[4.235901,52.06831]]]}}
+,{"type": "Feature","properties": {"Naam":"Ockenburgh"},"geometry": {"type": "Polygon","coordinates":[ [[4.210420,52.055185],[4.214420,52.055185],[4.214420,52.057185],[4.210420,52.057185]]]}}
+,{"type": "Feature","properties": {"Naam":"Kijkduin"},"geometry": {"type": "Polygon","coordinates":[ [[4.220226,52.067111],[4.224226,52.067111],[4.224226,52.069111],[4.220226,52.069111]]]}}
+,{"type": "Feature","properties": {"Naam":"Kraayenstein"},"geometry": {"type": "Polygon","coordinates":[ [[4.212135,52.048649],[4.216135,52.048649],[4.216135,52.050649],[4.212135,52.050649]]]}}
+,{"type": "Feature","properties": {"Naam":"Kerketuinen en Zichtenburg"},"geometry": {"type": "Polygon","coordinates":[ [[4.248819,52.045554],[4.252819,52.045554],[4.252819,52.047554],[4.248819,52.047554]]]}}
+,{"type": "Feature","properties": {"Naam":"Houtwijk"},"geometry": {"type": "Polygon","coordinates":[ [[4.247825,52.054916],[4.251825,52.054916],[4.251825,52.056916],[4.247825,52.056916]]]}}
+,{"type": "Feature","properties": {"Naam":"Kom Loosduinen"},"geometry": {"type": "Polygon","coordinates":[ [[4.232929,52.052018],[4.236929,52.052018],[4.236929,52.054018],[4.232929,52.054018]]]}}
+,{"type": "Feature","properties": {"Naam":"Waldeck-Zuid"},"geometry": {"type": "Polygon","coordinates":[ [[4.230097,52.055977],[4.234097,52.055977],[4.234097,52.057977],[4.230097,52.057977]]]}}
+,{"type": "Feature","properties": {"Naam":"Nieuw Waldeck"},"geometry": {"type": "Polygon","coordinates":[ [[4.237221,52.059671],[4.241221,52.059671],[4.241221,52.061671],[4.237221,52.061671]]]}}
+,{"type": "Feature","properties": {"Naam":"Rosenburg"},"geometry": {"type": "Polygon","coordinates":[ [[4.246748,52.061940],[4.250748,52.061940],[4.250748,52.063940],[4.246748,52.063940]]]}}
+,{"type": "Feature","properties": {"Naam":"Componistenbuurt"},"geometry": {"type": "Polygon","coordinates":[ [[4.237650,52.065317],[4.241650,52.065317],[4.241650,52.067317],[4.237650,52.067317]]]}}
+,{"type": "Feature","properties": {"Naam":"Waldeck-Noord"},"geometry": {"type": "Polygon","coordinates":[ [[4.227200,52.058774],[4.231200,52.058774],[4.231200,52.060774],[4.227200,52.060774]]]}}
+,{"type": "Feature","properties": {"Naam":"Vruchtenbuurt"},"geometry": {"type": "Polygon","coordinates":[ [[4.252391,52.065713],[4.256391,52.065713],[4.256391,52.067713],[4.252391,52.067713]]]}}
+,{"type": "Feature","properties": {"Naam":"Eykenduynen"},"geometry": {"type": "Polygon","coordinates":[ [[4.262047,52.066214],[4.266047,52.066214],[4.266047,52.068214],[4.262047,52.068214]]]}}
+,{"type": "Feature","properties": {"Naam":"Heesterbuurt"},"geometry": {"type": "Polygon","coordinates":[ [[4.266893,52.070408],[4.270893,52.070408],[4.270893,52.072408],[4.266893,52.072408]]]}}
+,{"type": "Feature","properties": {"Naam":"Valkenboskwartier"},"geometry": {"type": "Polygon","coordinates":[ [[4.271660,52.071437],[4.275660,52.071437],[4.275660,52.073437],[4.271660,52.073437]]]}}
+,{"type": "Feature","properties": {"Naam":"Rond de Energiecentrale"},"geometry": {"type": "Polygon","coordinates":[ [[4.287067,52.073811],[4.291067,52.073811],[4.291067,52.075811],[4.287067,52.075811]]]}}
+,{"type": "Feature","properties": {"Naam":"Koningsplein en omgeving"},"geometry": {"type": "Polygon","coordinates":[ [[4.284084,52.077768],[4.288084,52.077768],[4.288084,52.079768],[4.284084,52.079768]]]}}
+,{"type": "Feature","properties": {"Naam":"Zeeheldenkwartier"},"geometry": {"type": "Polygon","coordinates":[ [[4.297474,52.081460],[4.301474,52.081460],[4.301474,52.083460],[4.297474,52.083460]]]}}
+,{"type": "Feature","properties": {"Naam":"Willemspark"},"geometry": {"type": "Polygon","coordinates":[ [[4.305692,52.085996],[4.309692,52.085996],[4.309692,52.087996],[4.305692,52.087996]]]}}
+,{"type": "Feature","properties": {"Naam":"Haagse Bos"},"geometry": {"type": "Polygon","coordinates":[ [[4.331824,52.090127],[4.335824,52.090127],[4.335824,52.092127],[4.331824,52.092127]]]}}
+,{"type": "Feature","properties": {"Naam":"Landen"},"geometry": {"type": "Polygon","coordinates":[ [[4.363048,52.095541],[4.367048,52.095541],[4.367048,52.097541],[4.363048,52.097541]]]}}
+,{"type": "Feature","properties": {"Naam":"Kampen"},"geometry": {"type": "Polygon","coordinates":[ [[4.347513,52.088580],[4.351513,52.088580],[4.351513,52.090580],[4.347513,52.090580]]]}}
+,{"type": "Feature","properties": {"Naam":"Marlot"},"geometry": {"type": "Polygon","coordinates":[ [[4.348200,52.098019],[4.352200,52.098019],[4.352200,52.100019],[4.348200,52.100019]]]}}
+,{"type": "Feature","properties": {"Naam":"Burgen en Horsten"},"geometry": {"type": "Polygon","coordinates":[ [[4.355238,52.092482],[4.359238,52.092482],[4.359238,52.094482],[4.355238,52.094482]]]}}
+,{"type": "Feature","properties": {"Naam":"Bezuidenhout-West"},"geometry": {"type": "Polygon","coordinates":[ [[4.328051,52.080299],[4.332051,52.080299],[4.332051,52.082299],[4.328051,52.082299]]]}}
+,{"type": "Feature","properties": {"Naam":"Bezuidenhout-Midden"},"geometry": {"type": "Polygon","coordinates":[ [[4.337449,52.083227],[4.341449,52.083227],[4.341449,52.085227],[4.337449,52.085227]]]}}
+,{"type": "Feature","properties": {"Naam":"Bezuidenhout-Oost"},"geometry": {"type": "Polygon","coordinates":[ [[4.349037,52.083069],[4.353037,52.083069],[4.353037,52.085069],[4.349037,52.085069]]]}}
+,{"type": "Feature","properties": {"Naam":"Huygenspark"},"geometry": {"type": "Polygon","coordinates":[ [[4.319307,52.072083],[4.323307,52.072083],[4.323307,52.074083],[4.319307,52.074083]]]}}
+,{"type": "Feature","properties": {"Naam":"Rivierenbuurt-Zuid"},"geometry": {"type": "Polygon","coordinates":[ [[4.326206,52.073442],[4.330206,52.073442],[4.330206,52.075442],[4.326206,52.075442]]]}}
+,{"type": "Feature","properties": {"Naam":"Rivierenbuurt-Noord"},"geometry": {"type": "Polygon","coordinates":[ [[4.325605,52.076238],[4.329605,52.076238],[4.329605,52.078238],[4.325605,52.078238]]]}}
+,{"type": "Feature","properties": {"Naam":"Kortenbos"},"geometry": {"type": "Polygon","coordinates":[ [[4.298332,52.075394],[4.302332,52.075394],[4.302332,52.077394],[4.298332,52.077394]]]}}
+,{"type": "Feature","properties": {"Naam":"Voorhout"},"geometry": {"type": "Polygon","coordinates":[ [[4.309512,52.080959],[4.313512,52.080959],[4.313512,52.082959],[4.309512,52.082959]]]}}
+,{"type": "Feature","properties": {"Naam":"Uilebomen"},"geometry": {"type": "Polygon","coordinates":[ [[4.319554,52.074576],[4.323554,52.074576],[4.323554,52.076576],[4.319554,52.076576]]]}}
+,{"type": "Feature","properties": {"Naam":"Zuidwal"},"geometry": {"type": "Polygon","coordinates":[ [[4.309512,52.071780],[4.313512,52.071780],[4.313512,52.073780],[4.309512,52.073780]]]}}
+,{"type": "Feature","properties": {"Naam":"Schildersbuurt-West"},"geometry": {"type": "Polygon","coordinates":[ [[4.298783,52.067849],[4.302783,52.067849],[4.302783,52.069849],[4.298783,52.069849]]]}}
+,{"type": "Feature","properties": {"Naam":"Schildersbuurt-Noord"},"geometry": {"type": "Polygon","coordinates":[ [[4.306078,52.068166],[4.310078,52.068166],[4.310078,52.070166],[4.306078,52.070166]]]}}
+,{"type": "Feature","properties": {"Naam":"Schildersbuurt-Oost"},"geometry": {"type": "Polygon","coordinates":[ [[4.311314,52.063866],[4.315314,52.063866],[4.315314,52.065866],[4.311314,52.065866]]]}}
+,{"type": "Feature","properties": {"Naam":"Transvaalkwartier-Noord"},"geometry": {"type": "Polygon","coordinates":[ [[4.292045,52.066451],[4.296045,52.066451],[4.296045,52.068451],[4.292045,52.068451]]]}}
+,{"type": "Feature","properties": {"Naam":"Transvaalkwartier-Midden"},"geometry": {"type": "Polygon","coordinates":[ [[4.291272,52.063866],[4.295272,52.063866],[4.295272,52.065866],[4.291272,52.065866]]]}}
+,{"type": "Feature","properties": {"Naam":"Transvaalkwartier-Zuid"},"geometry": {"type": "Polygon","coordinates":[ [[4.291530,52.061386],[4.295530,52.061386],[4.295530,52.063386],[4.291530,52.063386]]]}}
+,{"type": "Feature","properties": {"Naam":"Rustenburg"},"geometry": {"type": "Polygon","coordinates":[ [[4.274021,52.063998],[4.278021,52.063998],[4.278021,52.065998],[4.274021,52.065998]]]}}
+,{"type": "Feature","properties": {"Naam":"Oostbroek-Noord"},"geometry": {"type": "Polygon","coordinates":[ [[4.280672,52.067401],[4.284672,52.067401],[4.284672,52.069401],[4.280672,52.069401]]]}}
+,{"type": "Feature","properties": {"Naam":"Oostbroek-Zuid"},"geometry": {"type": "Polygon","coordinates":[ [[4.283033,52.063681],[4.287033,52.063681],[4.287033,52.065681],[4.283033,52.065681]]]}}
+,{"type": "Feature","properties": {"Naam":"Leyenburg"},"geometry": {"type": "Polygon","coordinates":[ [[4.271109,52.060402],[4.275109,52.060402],[4.275109,52.062402],[4.271109,52.062402]]]}}
+,{"type": "Feature","properties": {"Naam":"Venen Oorden en Raden"},"geometry": {"type": "Polygon","coordinates":[ [[4.258345,52.045396],[4.262345,52.045396],[4.262345,52.047396],[4.258345,52.047396]]]}}
+,{"type": "Feature","properties": {"Naam":"Zijden Steden en Zichten"},"geometry": {"type": "Polygon","coordinates":[ [[4.255425,52.038797],[4.259425,52.038797],[4.259425,52.040797],[4.255425,52.040797]]]}}
+,{"type": "Feature","properties": {"Naam":"Dreven en Gaarden"},"geometry": {"type": "Polygon","coordinates":[ [[4.261093,52.033253],[4.265093,52.033253],[4.265093,52.035253],[4.261093,52.035253]]]}}
+,{"type": "Feature","properties": {"Naam":"De Uithof"},"geometry": {"type": "Polygon","coordinates":[ [[4.247264,52.032725],[4.251264,52.032725],[4.251264,52.034725],[4.247264,52.034725]]]}}
+,{"type": "Feature","properties": {"Naam":"Morgenstond-Zuid"},"geometry": {"type": "Polygon","coordinates":[ [[4.273978,52.048060],[4.277978,52.048060],[4.277978,52.050060],[4.273978,52.050060]]]}}
+,{"type": "Feature","properties": {"Naam":"Morgenstond-West"},"geometry": {"type": "Polygon","coordinates":[ [[4.269386,52.049775],[4.273386,52.049775],[4.273386,52.051775],[4.269386,52.051775]]]}}
+,{"type": "Feature","properties": {"Naam":"Morgenstond-Oost"},"geometry": {"type": "Polygon","coordinates":[ [[4.273634,52.051781],[4.277634,52.051781],[4.277634,52.053781],[4.273634,52.053781]]]}}
+,{"type": "Feature","properties": {"Naam":"Zuiderpark"},"geometry": {"type": "Polygon","coordinates":[ [[4.284266,52.05457],[4.288266,52.05457],[4.288266,52.05657],[4.284266,52.05657]]]}}
+,{"type": "Feature","properties": {"Naam":"Moerwijk-Oost"},"geometry": {"type": "Polygon","coordinates":[ [[4.292388,52.044444],[4.296388,52.044444],[4.296388,52.046444],[4.292388,52.046444]]]}}
+,{"type": "Feature","properties": {"Naam":"Moerwijk-West"},"geometry": {"type": "Polygon","coordinates":[ [[4.292345,52.050382],[4.296345,52.050382],[4.296345,52.052382],[4.292345,52.052382]]]}}
+,{"type": "Feature","properties": {"Naam":"Moerwijk-Noord"},"geometry": {"type": "Polygon","coordinates":[ [[4.297753,52.054710],[4.301753,52.054710],[4.301753,52.056710],[4.297753,52.056710]]]}}
+,{"type": "Feature","properties": {"Naam":"Moerwijk-Zuid"},"geometry": {"type": "Polygon","coordinates":[ [[4.301873,52.049564],[4.305873,52.049564],[4.305873,52.051564],[4.301873,52.051564]]]}}
+,{"type": "Feature","properties": {"Naam":"Groente- en Fruitmarkt"},"geometry": {"type": "Polygon","coordinates":[ [[4.299523,52.058477],[4.303523,52.058477],[4.303523,52.060477],[4.299523,52.060477]]]}}
+,{"type": "Feature","properties": {"Naam":"Laakhaven-Oost"},"geometry": {"type": "Polygon","coordinates":[ [[4.321227,52.067269],[4.325227,52.067269],[4.325227,52.069269],[4.321227,52.069269]]]}}
+,{"type": "Feature","properties": {"Naam":"Laakhaven-West"},"geometry": {"type": "Polygon","coordinates":[ [[4.313588,52.062072],[4.317588,52.062072],[4.317588,52.064072],[4.313588,52.064072]]]}}
+,{"type": "Feature","properties": {"Naam":"Spoorwijk"},"geometry": {"type": "Polygon","coordinates":[ [[4.311129,52.051466],[4.315129,52.051466],[4.315129,52.053466],[4.311129,52.053466]]]}}
+,{"type": "Feature","properties": {"Naam":"Laakkwartier-West"},"geometry": {"type": "Polygon","coordinates":[ [[4.315219,52.054314],[4.319219,52.054314],[4.319219,52.056314],[4.315219,52.056314]]]}}
+,{"type": "Feature","properties": {"Naam":"Laakkwartier-Oost"},"geometry": {"type": "Polygon","coordinates":[ [[4.322815,52.057982],[4.326815,52.057982],[4.326815,52.059982],[4.322815,52.059982]]]}}
+,{"type": "Feature","properties": {"Naam":"Noordpolderbuurt"},"geometry": {"type": "Polygon","coordinates":[ [[4.329804,52.062049],[4.333804,52.062049],[4.333804,52.064049],[4.329804,52.064049]]]}}
+,{"type": "Feature","properties": {"Naam":"Binckhorst"},"geometry": {"type": "Polygon","coordinates":[ [[4.338253,52.066587],[4.342253,52.066587],[4.342253,52.068587],[4.338253,52.068587]]]}}
+,{"type": "Feature","properties": {"Naam":"Erasmus Veld"},"geometry": {"type": "Polygon","coordinates":[ [[4.280823,52.036762],[4.284823,52.036762],[4.284823,52.038762],[4.280823,52.038762]]]}}
+,{"type": "Feature","properties": {"Naam":"Hoge Veld"},"geometry": {"type": "Polygon","coordinates":[ [[4.286659,52.031429],[4.290659,52.031429],[4.290659,52.033429],[4.286659,52.033429]]]}}
+,{"type": "Feature","properties": {"Naam":"Parkeinde oosteinde"},"geometry": {"type": "Polygon","coordinates":[ [[4.287775,52.025515],[4.291775,52.025515],[4.291775,52.027515],[4.287775,52.027515]]]}}
+,{"type": "Feature","properties": {"Naam":"Lage Veld"},"geometry": {"type": "Polygon","coordinates":[ [[4.292152,52.023719],[4.296152,52.023719],[4.296152,52.025719],[4.292152,52.025719]]]}}
+,{"type": "Feature","properties": {"Naam":"Zonne Veld"},"geometry": {"type": "Polygon","coordinates":[ [[4.297903,52.018328],[4.301903,52.018328],[4.301903,52.020328],[4.297903,52.020328]]]}}
+,{"type": "Feature","properties": {"Naam":"Vlietzoom-West (vroeger Vlietbuurt)"},"geometry": {"type": "Polygon","coordinates":[ [[4.362641,52.058589],[4.366641,52.058589],[4.366641,52.060589],[4.362641,52.060589]]]}}
+,{"type": "Feature","properties": {"Naam":"Vliegeniersbuurt"},"geometry": {"type": "Polygon","coordinates":[ [[4.354980,52.040511],[4.358980,52.040511],[4.358980,52.042511],[4.354980,52.042511]]]}}
+,{"type": "Feature","properties": {"Naam":"De Reef"},"geometry": {"type": "Polygon","coordinates":[ [[4.377361,52.054472],[4.381361,52.054472],[4.381361,52.056472],[4.377361,52.056472]]]}}
+,{"type": "Feature","properties": {"Naam":"Bosweide"},"geometry": {"type": "Polygon","coordinates":[ [[4.362448,52.047796],[4.366448,52.047796],[4.366448,52.049796],[4.362448,52.049796]]]}}
+,{"type": "Feature","properties": {"Naam":"Tedingerbroek"},"geometry": {"type": "Polygon","coordinates":[ [[4.370923,52.052652],[4.374923,52.052652],[4.374923,52.054652],[4.370923,52.054652]]]}}
+,{"type": "Feature","properties": {"Naam":"De Venen"},"geometry": {"type": "Polygon","coordinates":[ [[4.386158,52.052784],[4.390158,52.052784],[4.390158,52.054784],[4.386158,52.054784]]]}}
+,{"type": "Feature","properties": {"Naam":"Morgenweide"},"geometry": {"type": "Polygon","coordinates":[ [[4.365967,52.042147],[4.369967,52.042147],[4.369967,52.044147],[4.365967,52.044147]]]}}
+,{"type": "Feature","properties": {"Naam":"Singels"},"geometry": {"type": "Polygon","coordinates":[ [[4.359358,52.036551],[4.363358,52.036551],[4.363358,52.038551],[4.359358,52.038551]]]}}
+,{"type": "Feature","properties": {"Naam":"Waterbuurt"},"geometry": {"type": "Polygon","coordinates":[ [[4.368627,52.034017],[4.372627,52.034017],[4.372627,52.036017],[4.368627,52.036017]]]}}
+,{"type": "Feature","properties": {"Naam":"De Bras"},"geometry": {"type": "Polygon","coordinates":[ [[4.381867,52.032010],[4.385867,52.032010],[4.385867,52.034010],[4.381867,52.034010]]]}}
+,{"type": "Feature","properties": {"Naam":"Vlietzoom-Oost (vroeger Westvliet)"},"geometry": {"type": "Polygon","coordinates":[ [[4.373970,52.068245],[4.377970,52.068245],[4.377970,52.070245],[4.373970,52.070245]]]}}
+,{"type": "Feature","properties": {"Naam":"De Rivieren"},"geometry": {"type": "Polygon","coordinates":[ [[4.385386,52.064948],[4.389386,52.064948],[4.389386,52.066948],[4.385386,52.066948]]]}}
+,{"type": "Feature","properties": {"Naam":"De Lanen"},"geometry": {"type": "Polygon","coordinates":[ [[4.392724,52.061702],[4.396724,52.061702],[4.396724,52.063702],[4.392724,52.063702]]]}}
+,{"type": "Feature","properties": {"Naam":"De Velden"},"geometry": {"type": "Polygon","coordinates":[ [[4.403968,52.070250],[4.407968,52.070250],[4.407968,52.072250],[4.403968,52.072250]]]}}
+,{"type": "Feature","properties": {"Naam":"De Vissen"},"geometry": {"type": "Polygon","coordinates":[ [[4.411950,52.062995],[4.415950,52.062995],[4.415950,52.064995],[4.411950,52.064995]]]}}
+,{"type": "Feature","properties": {"Naam":"De Dijken (vroeger Rietbuurt)"},"geometry": {"type": "Polygon","coordinates":[ [[4.404397,52.056425],[4.408397,52.056425],[4.408397,52.058425],[4.404397,52.058425]]]}}]}
